@@ -1,0 +1,3 @@
+(1995, Decimal('0E-12'))
+(1996, Decimal('0E-12'))
+Execution Time: 22.66817569732666

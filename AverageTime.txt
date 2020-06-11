@@ -1,0 +1,10 @@
+Execution Average Time of Query 1  =  16.820171308517455
+Execution Average Time of Query 2  =  10.91413505077362
+Execution Average Time of Query 3  =  6.746816504001617
+Execution Average Time of Query 4  =  14.601511812210083
+Execution Average Time of Query 5  =  23.747010040283204
+Execution Average Time of Query 6  =  114.49326021671295
+Execution Average Time of Query 7  =  4.503280317783355
+Execution Average Time of Query 8  =  11.595353710651398
+Execution Average Time of Query 9  =  3.5184081912040712
+Execution Average Time of Query 10  =  8.994604897499084
