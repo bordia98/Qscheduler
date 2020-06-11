@@ -50,12 +50,12 @@ try:
     connection1 = mysql.connector.connect(host='localhost',
                                          database='tpch',
                                          user='bordia',
-                                         password='bordia98')
+                                         password='')
     
     connection2 = mysql.connector.connect(host='localhost',
                                          database='tpch',
                                          user='bordia',
-                                         password='bordia98')
+                                         password='')
     
     if connection1.is_connected() and connection2.is_connected():
         print("Connection established with database")
@@ -100,8 +100,6 @@ finally:
         connection2.close()
         print("MySQL connection2 is closed")
 
-total = 0
 for i in range(n):
     print("Execution Time of Query" , i+1, " = ",execution_times[i+1])
-    total += execution_times[i+1]
-print("Execution Time without I/O",total)
+    
