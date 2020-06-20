@@ -50,13 +50,12 @@ try:
     connection1 = mysql.connector.connect(host='localhost',
                                          database='tpch',
                                          user='bordia',
-                                         password='')
+                                         password='bordia98')
     
     connection2 = mysql.connector.connect(host='localhost',
                                          database='tpch',
                                          user='bordia',
-                                         password='')
-    
+                                         password='bordia98')
     if connection1.is_connected() and connection2.is_connected():
         print("Connection established with database")
         start = time.time()

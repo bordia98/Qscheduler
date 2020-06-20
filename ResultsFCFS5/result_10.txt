@@ -9889,4 +9889,4 @@
 ('Supplier#000009939', 1)
 ('Supplier#000009948', 1)
 ('Supplier#000009972', 1)
-Execution Time: 20.140676021575928
+Execution Time: 16.514076709747314

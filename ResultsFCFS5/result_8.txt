@@ -1,2 +1,2 @@
 (Decimal('16.70260490621280'),)
-Execution Time: 18.72845458984375
+Execution Time: 16.22669005393982
